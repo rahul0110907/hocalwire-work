@@ -52,5 +52,4 @@ function displayPosts() {
     });
 }
 
-// Call the function to display blog posts when the page loads
 window.onload = displayPosts;
